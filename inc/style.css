@@ -1,0 +1,31 @@
+A:visited{TEXT-DECORATION: none;color: #336699;}
+A:active{TEXT-DECORATION: none;color: #336699;}
+A:link{text-decoration: none;color: #336699;}
+A:hover {BORDER-BOTTOM: 1px dotted; BORDER-LEFT-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-WIDTH: 1px; COLOR: #ff6600; TEXT-DECORATION: none}
+DIV,FORM,P,TD,BODY{FONT-SIZE:9pt;}
+
+.input {
+	FONT-SIZE: 12px;
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 2px; BORDER-RIGHT-WIDTH: 2px;
+}
+.textarea {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 2px; BORDER-RIGHT-WIDTH: 2px;
+}
+.select {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 1px;
+}
+
+.table_br{ font-size:6px; line-height:6px;}
+.tablebk{
+	border: 1px solid #CCCCCC;background-color: #CCCCCC;
+}
+.table_titlebg{height:26px;color:#000000;font-size: 12px;font-weight:bold; background-image:url(../images/top_bg.gif); padding-left:10px;}
+.table_trbg01{background-color: #DBDBDB;}
+.table_trbg02{background-color: #EFEFEF;}
+.tbtitle_ico{margin-left:15px; margin-right:5px;}
+
+.white{ color:#FFFFFF}
+.red{ color:#FF0000}
+.blue{ color:#0000FF}
+.yellow{ color:#FFFF00}
+.brown{ color:#990000}
